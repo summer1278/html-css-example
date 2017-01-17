@@ -1,2 +1,2 @@
 # html-css-example
-simple html and css example
+simple css, java and python examples
